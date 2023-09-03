@@ -1,7 +1,3 @@
-// Maximum and Minimum Element in an Array
-
-package com.company;
-
 import java.util.Scanner;
 
 public class MaxAndMinInArray
