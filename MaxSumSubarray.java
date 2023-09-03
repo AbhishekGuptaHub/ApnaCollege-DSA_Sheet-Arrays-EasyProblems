@@ -1,7 +1,3 @@
-// Maximum-Subarray
-
-package com.company;
-
 import java.util.Scanner;
 
 public class MaxSumSubarray
