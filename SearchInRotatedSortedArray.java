@@ -1,7 +1,3 @@
-// Search in Rotated Sorted Array
-
-package com.company;
-
 import java.util.Scanner;
 
 public class SearchInRotatedSortedArray
