@@ -1,7 +1,3 @@
-// Chocolate Distribution Problem
-
-package com.company;
-
 import java.util.Scanner;
 import java.util.Arrays;
 
